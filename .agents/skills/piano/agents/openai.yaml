@@ -1,0 +1,4 @@
+interface:
+  display_name: "Piano Practice Notes"
+  short_description: "Turn piano lessons into clear practice notes"
+  default_prompt: "Use $piano to turn this piano lesson transcript into practice notes."

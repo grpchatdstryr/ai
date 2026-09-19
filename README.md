@@ -1,8 +1,12 @@
-## AI Stuff
+# AI stuff
 
-Trying to learn more about AI, repo for testing, learning and whatnot
+A small collection of agents, skills, and prompts for learning and experimenting with AI.
 
-### So far
+## Agents
 
-- [grug prompt](prompts/grug.md)
-- [grug skill](.agents/skills/grug/SKILL.md)
+- [grug agent](.agents/agents/grug.md)
+
+## Skills
+
+- [piano](.agents/skills/piano/SKILL.md)
+- [recipe](.agents/skills/recipe/SKILL.md)

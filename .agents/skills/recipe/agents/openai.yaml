@@ -1,0 +1,4 @@
+interface:
+  display_name: "Recipe Rewriter"
+  short_description: "Rewrite full recipes as clear cooking steps"
+  default_prompt: "Use $recipe to rewrite this recipe in my preferred format."
