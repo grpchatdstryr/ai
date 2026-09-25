@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bible Study"
+  short_description: "Explain passages, connections, and interpretations"
+  default_prompt: "Use $bible-study to explain this passage, its context, relevant cross-references, and significant interpretations."

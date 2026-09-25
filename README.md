@@ -11,4 +11,5 @@ A small collection of agents, skills, and prompts for learning and experimenting
 - [commit-and-push](.agents/skills/commit-and-push/SKILL.md)
 - [piano](.agents/skills/piano/SKILL.md)
 - [recipe](.agents/skills/recipe/SKILL.md)
+- [shortcut](.agents/skills/shortcut/SKILL.md)
 - [tldr](.agents/skills/tldr/SKILL.md)
