@@ -1,4 +1,4 @@
 interface:
   display_name: "Bible Study"
-  short_description: "Explain passages, connections, and interpretations"
-  default_prompt: "Use $bible-study to explain this passage, its context, relevant cross-references, and significant interpretations."
+  short_description: "Study Scripture with context, timelines, and takeaways"
+  default_prompt: "Use $bible-study to explain this passage in concise bullets with historical context, original language, location confidence and a map, a full Bible-story timeline, a character table, biblical connections to Jesus, cited sources, and a practical takeaway."
